@@ -24,6 +24,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'An Illustrated Account of St. Bartholomew''s Priory Church, Smithfield.
 
   with a sketch of Bartholomew fair, St. Bartholomew''s
